@@ -1,5 +1,5 @@
-require "net/http"
-require "json"
+require 'net/http'
+require 'json'
 require 'digest/md5'
 require 'trollop'
 
