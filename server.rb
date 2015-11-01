@@ -11,6 +11,6 @@ get '/' do
   if result
     status 200 
   else
-    status 500 
+    status 503
   end 
 end
